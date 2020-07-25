@@ -1,6 +1,6 @@
 # flutter_course
 
-A new Flutter project.
+Quiz App to pratice concepts of Flutter applications.
 
 ## Getting Started
 
